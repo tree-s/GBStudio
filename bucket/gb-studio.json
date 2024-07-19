@@ -4,7 +4,7 @@
     "homepage": "https://github.com/chrismaltby/gb-studio",
     "license": "MIT",
     "url": "https://github.com/username/repo/releases/download/v1.0.0/software.zip",
-    "hash": "SHA256_HASH_OF_THE_DOWNLOAD",
+    "hash": "26db46d3a9498def373ab866d893ef9fa76b530c913fcd093d461cd94348d972",
     "bin": "gb-studio.exe",
     "checkver": {
         "github": "https://github.com/chrismaltby/gb-studio"
