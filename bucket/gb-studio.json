@@ -13,7 +13,6 @@
             "hash": "61a6b73ebff10665fd7e129c67f095bed1a3bc1785aa51628bef10a1013ae149"
         }
     },
-    "hash": "",
     "bin": "gb-studio.exe",
     "checkver": {
         "github": "https://github.com/chrismaltby/gb-studio"
