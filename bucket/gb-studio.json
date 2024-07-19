@@ -1,16 +1,16 @@
 {
-    "version": "0.0.0",
+    "version": "4.0.0",
     "description": "GB Studio is a quick and easy to use retro adventure game creator for Game Boy available for Mac, Linux and Windows.",
     "homepage": "https://github.com/chrismaltby/gb-studio",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/example/example-tool/releases/download/v1.0.0/example-tool-x64.zip",
-            "hash": ""
+            "url": "https://github.com/chrismaltby/gb-studio/releases/download/v4.0.0/gb-studio-windows-64bit-standalone.zip",
+            "hash": "a9d4faf9f2f7aa6b303de7645f680946f0194bc46e90832e54fe33d298aa4776"
         },
         "32bit": {
-            "url": "https://github.com/example/example-tool/releases/download/v1.0.0/example-tool-x86.zip",
-            "hash": ""
+            "url": "https://github.com/chrismaltby/gb-studio/releases/download/v4.0.0/gb-studio-windows-32bit-standalone.zip",
+            "hash": "61a6b73ebff10665fd7e129c67f095bed1a3bc1785aa51628bef10a1013ae149"
         }
     },
     "hash": "",
