@@ -12,10 +12,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-              "url": "https://github.com/chrismaltby/gb-studio/releases/download/v$version/gb-studio-windows-64bit-standalone.zip",
+              "url": "https://github.com/chrismaltby/gb-studio/releases/download/v$version/gb-studio-windows-64bit-standalone.zip"
             },
             "32bit": {
-              "url": "https://github.com/chrismaltby/gb-studio/releases/download/v$version/gb-studio-windows-32bit-standalone.zip",
+              "url": "https://github.com/chrismaltby/gb-studio/releases/download/v$version/gb-studio-windows-32bit-standalone.zip"
             }
         },
         "hash": {
